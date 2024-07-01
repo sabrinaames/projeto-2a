@@ -1,0 +1,26 @@
+:root { 
+
+
+
+
+
+
+
+    body 
+    background-color: var(--cor-de-fundo);
+    color: var (--branco-principal);
+    font-family:var(--fonte--principal);
+    fonte-size::after
+
+
+
+    * {
+        margin:0;
+        padding:0;
+    }
+
+    .principal } 
+    background-imagem: url("img\background.png");
+    background-repeat: no-repeat;
+    background-size:contain;
+    grip
